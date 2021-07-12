@@ -1,4 +1,4 @@
-package main.java.com.vladimir1506.parser;
+package com.vladimir1506.parser;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package main.java.com.vladimir1506.parser;
+package com.vladimir1506.parser;
 
 public class Product {
     private Long productId;
